@@ -25,4 +25,4 @@ jobs:
                   publish_branch: pages
                   publish_dir: docs/
                   force_orphan: true
-                  cname: "dendron.so" # UPDATE WITH DOMAIN NAMEd
+                  cname: "https://ayush-sharma-umass.github.io/academic-literature-notes/" # UPDATE WITH DOMAIN NAMEd

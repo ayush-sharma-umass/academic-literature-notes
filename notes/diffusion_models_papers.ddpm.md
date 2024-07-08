@@ -1,7 +1,7 @@
 ---
 id: hf146j1vopcdij7ac59mbbe
 title: Ddpm
-desc: 'notes on Denoising Diffusion Probabilistic Models paper'
+desc: notes on Denoising Diffusion Probabilistic Models paper
 updated: 1720405536041
 created: 1720142276986
 ---
