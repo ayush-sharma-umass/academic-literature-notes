@@ -1,39 +1,29 @@
 {
   "roots": [
     {
-      "key": "wn8PE1RhG0znK1alrGFYv",
-      "title": "Root",
+      "key": "4344bmugwdktot90m1q4629",
+      "title": "Diffusion_models_papers",
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "academic-literature-notes",
-      "navExclude": false,
       "children": [
         {
-          "key": "4344bmugwdktot90m1q4629",
-          "title": "Diffusion_models_papers",
+          "key": "hf146j1vopcdij7ac59mbbe",
+          "title": "Denoising Diffusion Probabilistic Models",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "academic-literature-notes",
-          "navExclude": false,
-          "children": [
-            {
-              "key": "hf146j1vopcdij7ac59mbbe",
-              "title": "Denoising Diffusion Probabilistic Models",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "academic-literature-notes",
-              "navExclude": false,
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     }
   ],
   "child2parent": {
-    "403": null,
-    "wn8PE1RhG0znK1alrGFYv": null,
-    "4344bmugwdktot90m1q4629": "wn8PE1RhG0znK1alrGFYv",
+    "4344bmugwdktot90m1q4629": null,
     "hf146j1vopcdij7ac59mbbe": "4344bmugwdktot90m1q4629"
+  },
+  "notesLabelById": {
+    "4344bmugwdktot90m1q4629": "Diffusion_models_papers",
+    "hf146j1vopcdij7ac59mbbe": "Denoising Diffusion Probabilistic Models"
   }
 }

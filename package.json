@@ -6,6 +6,6 @@
   "author": "ayush.cs.umass@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.106.0"
+    "@dendronhq/dendron-cli": "^0.122.0"
   }
 }

@@ -88,9 +88,7 @@
     "enableEditorDecorations": true,
     "maxPreviewsCached": 10,
     "maxNoteLength": 204800,
-    "enableFullHierarchyNoteTitle": false,
-    "enableHandlebarTemplates": true,
-    "enableSmartRefs": false
+    "enableFullHierarchyNoteTitle": false
   },
   "preview": {
     "enableFMTitle": true,
@@ -99,8 +97,7 @@
     "enableHashesForFMTags": false,
     "enablePrettyRefs": true,
     "enableKatex": true,
-    "automaticallyShowPreview": false,
-    "enableMermaid": true
+    "automaticallyShowPreview": false
   },
   "publishing": {
     "enableFMTitle": true,
@@ -113,8 +110,6 @@
     ],
     "writeStubs": false,
     "siteRootDir": "docs",
-    "siteUrl": "https://ayush-sharma-umass.github.io/academic-literature-notes/",
-    "baseUrl": "/academic-literature-notes",
     "seo": {
       "title": "Dendron",
       "description": "Personal Knowledge Space"
@@ -132,7 +127,8 @@
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
     "searchMode": "search",
-    "enableMermaid": true,
+    "siteUrl": "https://ayush-sharma-umass.github.io/academic-literature-notes/",
+    "baseUrl": "/academic-literature-notes",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }

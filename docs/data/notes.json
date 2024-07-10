@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1720605163793,
-      "created": 1720605163793,
+      "updated": 1720605897945,
+      "created": 1720605897945,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -131,6 +131,7 @@
         {
           "from": {
             "fname": "root",
+            "id": "wn8PE1RhG0znK1alrGFYv",
             "vaultName": "academic-literature-notes"
           },
           "type": "backlink",
@@ -147,8 +148,7 @@
             },
             "indent": []
           },
-          "value": "diffusion_models_papers",
-          "alias": "diffusion_models_papers"
+          "value": "diffusion_models_papers"
         }
       ],
       "anchors": {},
@@ -177,6 +177,7 @@
         {
           "from": {
             "fname": "diffusion_models_papers",
+            "id": "4344bmugwdktot90m1q4629",
             "vaultName": "academic-literature-notes"
           },
           "type": "backlink",
@@ -193,8 +194,7 @@
             },
             "indent": []
           },
-          "value": "diffusion_models_papers.ddpm",
-          "alias": "diffusion_models_papers.ddpm"
+          "value": "diffusion_models_papers.ddpm"
         }
       ],
       "anchors": {
