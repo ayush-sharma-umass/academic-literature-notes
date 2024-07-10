@@ -89,7 +89,8 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: https://ayush-sharma-umass.github.io/
+    siteUrl: https://ayush-sharma-umass.github.io/academic-literature-notes/
+    baseUrl: /academic-literature-notes
     seo:
         title: Dendron
         description: Personal Knowledge Space
