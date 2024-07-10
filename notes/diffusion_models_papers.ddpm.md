@@ -13,8 +13,6 @@ created: 1720142276986
 
 <br>
 
-Certainly! Here is a summary of the paper highlighting its important contributions and novelty:
-
 
 **Title:** Diffusion Models and Denoising Autoencoders
 
@@ -334,7 +332,7 @@ Models which have hidden variables, which are not observed but inferred from the
       $\tilde{\beta}_t = \frac{1 - \bar{\alpha}_{t-1}}{1 - \bar{\alpha}_t \beta_t}$
 
 
-## 3 Diffusion models and denoising autoencoders
+## Diffusion models and denoising autoencoders
 <br>
 
 > **Diffusion models might appear to be a restricted class of latent variable models, but they allow a large number of degrees of freedom in implementation.** One must choose the variances $\beta_t$ of the forward process and the model architecture and Gaussian distribution parameterization of the reverse process. To guide our choices, we establish a new explicit connection between diffusion models and denoising score matching (Section 3.2) that leads to a simplified, weighted variational bound objective for diffusion models (Section 3.4). Ultimately, our model design is justified by simplicity and empirical results (Section 4). Our discussion is categorized by the terms of Eq. (5).

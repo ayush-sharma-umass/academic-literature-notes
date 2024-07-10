@@ -1,10 +1,11 @@
 {
-    "scripts": {
-        "dendron-cli": "dendron-cli"
-    },
-    "license": "CC BY 4.0",
-    "devDependencies": {
-        "@dendronhq/dendron-cli": "*",
-        "@dendronhq/dendron-11ty-legacy": "*"
-    }
+  "name": "template.publish.github-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dendronhq/template.publish.github-action.git",
+  "author": "Kevin <kevin@dendron.so>",
+  "license": "MIT",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.106.0"
+  }
 }

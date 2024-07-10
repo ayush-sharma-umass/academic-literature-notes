@@ -1,20 +1,18 @@
 ---
-id: q7e7e9wmu4br1ofa8620rxp
+id: wn8PE1RhG0znK1alrGFYv
 title: Root
-desc: ''
-updated: 1720472514044
-created: 1720472514045
+desc: ""
+updated: 1720405536041
+created: 1720142276986
 ---
-# Welcome to Dendron
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+## Welcome to Ayush's Academic Literature notes
 
-## Lookup
+* Diffussion papers: [[diffusion_models_papers.md]]
 
-This section contains useful links to related resources.
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+
+Last updated:
+
+- version: v0.01
+- date: 2024-07-07
