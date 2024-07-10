@@ -32,7 +32,7 @@ jobs:
     - name: Initialize or pull nextjs template
       run: "(test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)"
 
-    - name: Restore Next cache
+    - name: Restore Next cachecopy all
       uses: actions/cache@v2
       with:
         path: .next/.next/cache

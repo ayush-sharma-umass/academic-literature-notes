@@ -22,9 +22,8 @@ commands:
     templateHierarchy: template
 workspace:
     vaults:
-        -
-            fsPath: .
-            selfContained: true
+        -   fsPath: vaults
+            selfContained: false
             name: academic-literature-notes
     journal:
         dailyDomain: daily

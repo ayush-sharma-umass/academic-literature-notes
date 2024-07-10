@@ -2,8 +2,8 @@
   "notes": {
     "403": {
       "vault": {
-        "fsPath": ".",
-        "selfContained": true,
+        "fsPath": "vaults",
+        "selfContained": false,
         "name": "academic-literature-notes"
       },
       "fname": "403",
@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1720600734849,
-      "created": 1720600734849,
+      "updated": 1720604292435,
+      "created": 1720604292435,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -33,8 +33,8 @@
       "fname": "root",
       "type": "note",
       "vault": {
-        "fsPath": ".",
-        "selfContained": true,
+        "fsPath": "vaults",
+        "selfContained": false,
         "name": "academic-literature-notes"
       },
       "contentHash": "728aa32712c42bd6d2824ace1188bffe",
@@ -94,8 +94,8 @@
       "fname": "diffusion_models_papers",
       "type": "note",
       "vault": {
-        "fsPath": ".",
-        "selfContained": true,
+        "fsPath": "vaults",
+        "selfContained": false,
         "name": "academic-literature-notes"
       },
       "contentHash": "6c07db5e1dee4f3e8ae3e72848f61c9e",
@@ -160,7 +160,7 @@
     },
     "hf146j1vopcdij7ac59mbbe": {
       "id": "hf146j1vopcdij7ac59mbbe",
-      "title": "Ddpm",
+      "title": "Denoising Diffusion Probabilistic Models",
       "desc": "notes on Denoising Diffusion Probabilistic Models paper",
       "updated": 1720405536041,
       "created": 1720142276986,
@@ -168,11 +168,11 @@
       "fname": "diffusion_models_papers.ddpm",
       "type": "note",
       "vault": {
-        "fsPath": ".",
-        "selfContained": true,
+        "fsPath": "vaults",
+        "selfContained": false,
         "name": "academic-literature-notes"
       },
-      "contentHash": "01ab48af4cd4c544c63f6f64f3c3fe79",
+      "contentHash": "bfdffff6d6ec2c66086e9ad345aafcfe",
       "links": [
         {
           "from": {
@@ -376,8 +376,8 @@
       "fname": "root",
       "type": "note",
       "vault": {
-        "fsPath": ".",
-        "selfContained": true,
+        "fsPath": "vaults",
+        "selfContained": false,
         "name": "academic-literature-notes"
       },
       "contentHash": "728aa32712c42bd6d2824ace1188bffe",
@@ -442,8 +442,8 @@
     "fname": "root",
     "type": "note",
     "vault": {
-      "fsPath": ".",
-      "selfContained": true,
+      "fsPath": "vaults",
+      "selfContained": false,
       "name": "academic-literature-notes"
     },
     "contentHash": "728aa32712c42bd6d2824ace1188bffe",
@@ -496,8 +496,8 @@
   },
   "vaults": [
     {
-      "fsPath": ".",
-      "selfContained": true,
+      "fsPath": "vaults",
+      "selfContained": false,
       "name": "academic-literature-notes"
     }
   ]

@@ -18,7 +18,7 @@
           "children": [
             {
               "key": "hf146j1vopcdij7ac59mbbe",
-              "title": "Ddpm",
+              "title": "Denoising Diffusion Probabilistic Models",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "academic-literature-notes",

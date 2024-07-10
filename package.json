@@ -1,9 +1,9 @@
 {
-  "name": "template.publish.github-action",
+  "name": "academic-literature-notes",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/dendronhq/template.publish.github-action.git",
-  "author": "Kevin <kevin@dendron.so>",
+  "repository": "https://github.com/ayush-sharma-umass/academic-literature-notes.git",
+  "author": "ayush.cs.umass@gmail.com",
   "license": "MIT",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.106.0"
