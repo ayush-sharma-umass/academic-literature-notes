@@ -1,0 +1,39 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "academic-literature-notes",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "4344bmugwdktot90m1q4629",
+          "title": "Diffusion_models_papers",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "academic-literature-notes",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "hf146j1vopcdij7ac59mbbe",
+              "title": "Ddpm",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "academic-literature-notes",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "4344bmugwdktot90m1q4629": "wn8PE1RhG0znK1alrGFYv",
+    "hf146j1vopcdij7ac59mbbe": "4344bmugwdktot90m1q4629"
+  }
+}
